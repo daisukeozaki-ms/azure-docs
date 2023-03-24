@@ -10,7 +10,7 @@ ms.reviewer:
 ms.date: 11/30/2021
 ---
 
-# Audit logging in Azure Database for PostgreSQL - Flexible server
+# Audit logging in Azure Database for PostgreSQL - Flexible server1
 
 [!INCLUDE [applies-to-postgresql-flexible-server](../includes/applies-to-postgresql-flexible-server.md)]
 
